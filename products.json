@@ -1,9 +1,11 @@
-[
-  {
-    "title": "Aizen Sousuke Pack",
-    "items": 26,
-    "tags": "Bundle of manga + reverse remp and more",
-    "image": "https://i.postimg.cc/XJW6Xhcn/063e9c58efe668b5e85f8ad9882d7daa.jpg",
-    "download": "https://t.me/FilesSharingFreebot?start=AIZEN_SOUS"
-  }
-]
+{
+  "Id": "CC-001",
+  "Tittle": "Dark CC Pack",
+  "Creator": "DARKOSIES",
+  "CreatorUsername": "darkosies",
+  "Type": "Cc",
+  "Tag": ["cc", "dark"],
+  "Image preview": "https://example.com/preview.jpg",
+  "Download": "https://example.com/download"
+}
+
