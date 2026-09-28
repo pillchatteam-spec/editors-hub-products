@@ -322,6 +322,54 @@
     ],
     "Premium": false,
     "Download": "https://drive.google.com/file/d/1lcAkkbhZEodGZqUEPVp3f_L8JKkCk-0H/view?usp=drivesdk"
+  },
+
+  
+  {
+    "Id": "THUMBNAIL-001",
+    "Tittle": "YT THUMBNAIL 01",
+    "Creator": "DARKOSIES",
+    "CreatorUsername": "Dx",
+    "Type": "Thumbnail",
+    "Tag": [
+      "thumbnail",
+      "youtube",
+      "yt"
+    ],
+    "Premium": false,
+    "Download": "https://drive.google.com/file/d/14lCR2qto1mcnHFaiOxe0dlSgk5E-ve2H/view?usp=drivesdk",
+    "Image preview": "https://i.postimg.cc/xTZmP7Qp/thumbnail-1-2F36A4D.png"
+  },
+  {
+    "Id": "THUMBNAIL-002",
+    "Tittle": "YT THUMBNAIL 02",
+    "Creator": "DARKOSIES",
+    "CreatorUsername": "Dx",
+    "Type": "Thumbnail",
+    "Tag": [
+      "thumbnail",
+      "youtube",
+      "yt"
+    ],
+    "Premium": false,
+    "Download": "https://drive.google.com/file/d/1WI0lPrb-MbvhgHHB0Q5SUK7SAdkE4JR5/view?usp=drivesdk",
+    "Image preview": "https://i.postimg.cc/7h6C31Wk/thumbnail-2-3CA38CB.png"
+  },
+  {
+    "Id": "THUMBNAIL-003",
+    "Tittle": "YT THUMBNAIL 03",
+    "Creator": "AIZEN EDITS",
+    "CreatorUsername": "Aizen",
+    "Type": "Thumbnail",
+    "Tag": [
+      "thumbnail",
+      "youtube",
+      "yt"
+    ],
+    "Premium": false,
+    "Download": "https://drive.google.com/file/d/1mOFDPAIWc0B-4jjGl-w3-tgLLCKDcmLF/view?usp=drivesdk",
+    "Image preview": "https://i.postimg.cc/d0YLHcxz/thumbnail-3-6339F40.png"
   }
+  
   
 ]
