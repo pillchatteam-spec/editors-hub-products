@@ -1,11 +1,177 @@
-{
-  "Id": "CC-001",
-  "Tittle": "Dark CC Pack",
-  "Creator": "DARKOSIES",
-  "CreatorUsername": "darkosies",
-  "Type": "Cc",
-  "Tag": ["cc", "dark"],
-  "Image preview": "https://example.com/preview.jpg",
-  "Download": "https://example.com/download"
-}
-
+[
+  {
+    "Id": "CC-001",
+    "Tittle": "DARK GLOW",
+    "Creator": "DARKOSIES",
+    "CreatorUsername": "Darko",
+    "Type": "Cc",
+    "Tag": [
+      "cc",
+      "dark",
+      "glow"
+    ],
+    "Premium": false,
+    "Download": "https://drive.google.com/file/d/1MsgdWCSzicx9y8259-0D_y24Aa2A3zOo/view?usp=drivesdk",
+    "No CC": "https://i.postimg.cc/sx9Qy7c8/CC-1-E8C0A89.png",
+    "After CC": "https://i.postimg.cc/L5TXGR4d/CC-1-3DD0561.png"
+  },
+  {
+    "Id": "CC-002",
+    "Tittle": "DARK glow V2",
+    "Creator": "DARKOSIES",
+    "CreatorUsername": "Darko",
+    "Type": "Cc",
+    "Tag": [
+      "cc",
+      "dark",
+      "glow",
+      "v2"
+    ],
+    "Premium": false,
+    "Download": "https://drive.google.com/your-file-link",
+    "No CC": "https://i.postimg.cc/Jzyr5jk2/10-cc-from-DARKOSIES-Copy-89A938A.png",
+    "After CC": "https://i.postimg.cc/prGvDdVC/10-cc-from-DARKOSIES-Copy-387BC66.png"
+  },
+  {
+    "Id": "CC-003",
+    "Tittle": "Trending Relatable edit cc",
+    "Creator": "DARKOSIES",
+    "CreatorUsername": "Darko",
+    "Type": "Cc",
+    "Tag": [
+      "cc",
+      "trending",
+      "relatable"
+    ],
+    "Premium": false,
+    "Download": "https://drive.google.com/file/d/1Cj3CTG59x2DDELEYUQiTwHnZgRu-t9mh/view?usp=drivesdk",
+    "No CC": "https://i.postimg.cc/HxN3XDDX/10-cc-from-DARKOSIES-Copy-6523E9F.png",
+    "After CC": "https://i.postimg.cc/QxcG8ScN/10-cc-from-DARKOSIES-Copy-41F28EC.png"
+  },
+  {
+    "Id": "CC-004",
+    "Tittle": "MANGA CC",
+    "Creator": "ZIX9",
+    "CreatorUsername": "Darko",
+    "Type": "Cc",
+    "Tag": [
+      "cc",
+      "manga"
+    ],
+    "Premium": false,
+    "Download": "https://drive.google.com/file/d/10LtLiDgEpLB7yPRaRZE0lVffLMs_0Go0/view?usp=drivesdk",
+    "No CC": "https://i.postimg.cc/6qRSQ528/10-cc-from-DARKOSIES-Copy-C79C2BD.png",
+    "After CC": "https://i.postimg.cc/sfS07xxH/10-cc-from-DARKOSIES-Copy-BD5E5F9.png"
+  },
+  {
+    "Id": "CC-005",
+    "Tittle": "overglow",
+    "Creator": "RUDRA",
+    "CreatorUsername": "Darko",
+    "Type": "Cc",
+    "Tag": [
+      "cc",
+      "overglow"
+    ],
+    "Premium": false,
+    "Download": "https://drive.google.com/file/d/1nYipkT6jM2AGAOEod5czBA1MpKB-2kO5/view?usp=drivesdk",
+    "No CC": "https://i.postimg.cc/sx9Qy7c8/CC-1-E8C0A89.png",
+    "After CC": "https://i.postimg.cc/QxY5MkDP/10-cc-from-DARKOSIES-C836366.png"
+  },
+  {
+    "Id": "CC-006",
+    "Tittle": "QUALITY CC ( dark)",
+    "Creator": "DARKOSIES",
+    "CreatorUsername": "Darko",
+    "Type": "Cc",
+    "Tag": [
+      "cc",
+      "quality",
+      "dark"
+    ],
+    "Premium": false,
+    "Download": "https://drive.google.com/file/d/1Y2Fb-BU1fsdec123Z46V-Y2wji3dyN-G/view?usp=drivesdk",
+    "No CC": "https://i.postimg.cc/KjRGpTWj/CC-2-by-ROBO-EDITS-4E1EABC.png",
+    "After CC": "https://i.postimg.cc/HxKDxhSm/CC-2-by-ROBO-EDITS-33751E6.png"
+  },
+  {
+    "Id": "CC-007",
+    "Tittle": "QUALITY CC ( bright)",
+    "Creator": "DARKOSIES",
+    "CreatorUsername": "Darko",
+    "Type": "Cc",
+    "Tag": [
+      "cc",
+      "quality",
+      "bright"
+    ],
+    "Premium": false,
+    "Download": "https://drive.google.com/file/d/1QMw99PdJXEt8MLL74ciWZvLpfCtsw1sD/view?usp=drivesdk",
+    "No CC": "https://i.postimg.cc/4xJJjjqD/de207e614226f0b461c133adb34703a2.jpg",
+    "After CC": "https://i.postimg.cc/5200k6HV/CC-4-by-ROBO-EDITS-C221905.png"
+  },
+  {
+    "Id": "CC-008",
+    "Tittle": "QUALITY CC ( little bit shine)",
+    "Creator": "DARKOSIES",
+    "CreatorUsername": "Darko",
+    "Type": "Cc",
+    "Tag": [
+      "cc",
+      "quality",
+      "shine"
+    ],
+    "Premium": false,
+    "Download": "https://drive.google.com/file/d/1TN_mEIATE-i-QuUAsFz5ww6HDqsFE48x/view?usp=drivesdk",
+    "No CC": "https://i.postimg.cc/JhCh7K6W/ab331489dc37e557356502567b55cfda.jpg",
+    "After CC": "https://i.postimg.cc/XYbJ4QD6/10-cc-from-DARKOSIES-D42590C.png"
+  },
+  {
+    "Id": "CC-009",
+    "Tittle": "GOLDEN GLOW ( SUNLIGHT)",
+    "Creator": "DARKOSIES",
+    "CreatorUsername": "Darko",
+    "Type": "Cc",
+    "Tag": [
+      "cc",
+      "golden",
+      "glow",
+      "sunlight"
+    ],
+    "Premium": false,
+    "Download": "https://drive.google.com/file/d/1eqdY1P7IXnKDZTXRHCMoaynD_1pMRK4-/view?usp=drivesdk",
+    "No CC": "https://i.postimg.cc/GpDqG3xj/2a79ceba420ada0f273fd4b45b4158d4.jpg",
+    "After CC": "https://i.postimg.cc/jjTJ3srf/CC-ED17DB5.png"
+  },
+  {
+    "Id": "CC-010",
+    "Tittle": "SHARP CC",
+    "Creator": "trynabe_lelouch_fx",
+    "CreatorUsername": "Darko",
+    "Type": "Cc",
+    "Tag": [
+      "cc",
+      "sharp"
+    ],
+    "Premium": false,
+    "Download": "https://drive.google.com/file/d/1lgdgua5NEAB7xIp_YrcPDfgoIbTE06QG/view?usp=drivesdk",
+    "No CC": "https://i.postimg.cc/TPNzw68N/IMG-20260925-194736-148.jpg",
+    "After CC": "https://i.postimg.cc/hP03vBTJ/IMG-20260925-194738-781.jpg"
+  },
+  {
+    "Id": "CC-011",
+    "Tittle": "GOJO CC ( GLOW )",
+    "Creator": "trynabe_lelouch_fx",
+    "CreatorUsername": "Darko",
+    "Type": "Cc",
+    "Tag": [
+      "cc",
+      "gojo",
+      "glow"
+    ],
+    "Premium": false,
+    "Download": "https://drive.google.com/file/d/1t8W79I56jM8qfy43FOKz_Aa8xOXRqAXo/view?usp=drivesdk",
+    "No CC": "https://i.postimg.cc/Njm8F8WS/IMG-20260925-195301-640.jpg",
+    "After CC": "https://i.postimg.cc/K8SL6kRr/IMG-20260925-195304-330.jpg"
+  }
+]
