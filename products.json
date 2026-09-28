@@ -173,5 +173,48 @@
     "Download": "https://drive.google.com/file/d/1t8W79I56jM8qfy43FOKz_Aa8xOXRqAXo/view?usp=drivesdk",
     "No CC": "https://i.postimg.cc/Njm8F8WS/IMG-20260925-195301-640.jpg",
     "After CC": "https://i.postimg.cc/K8SL6kRr/IMG-20260925-195304-330.jpg"
+  },
+  {
+    "Id": "PFP-001",
+    "Tittle": "PFP PRESET 01",
+    "Creator": "DARKOSIES",
+    "CreatorUsername": "DARKOSIES",
+    "Type": "Pfp",
+    "Tag": [
+      "pfp",
+      "preset"
+    ],
+    "Premium": false,
+    "Download": "https://drive.google.com/file/d/11wYQ4sSRK5fvpa978_dJCVGCxyvJ2KLE/view?usp=drivesdk",
+    "Image preview": "https://i.postimg.cc/4xnK71hj/IMG-20260921-212913-748.jpg"
+  },
+  {
+    "Id": "PFP-002",
+    "Tittle": "PFP PRESET 02",
+    "Creator": "DARKOSIES",
+    "CreatorUsername": "DARKOSIES",
+    "Type": "Pfp",
+    "Tag": [
+      "pfp",
+      "preset"
+    ],
+    "Premium": false,
+    "Download": "https://drive.google.com/file/d/1kNQjhDVmS7pjcSMZmgWEuF86_jTKv3rK/view?usp=drivesdk",
+    "Image preview": "https://i.postimg.cc/LsL8LQ4w/IMG-20260921-212937-351.jpg"
+  },
+  {
+    "Id": "PFP-003",
+    "Tittle": "PFP PRESET 03",
+    "Creator": "DARKOSIES",
+    "CreatorUsername": "DARKOSIES",
+    "Type": "Pfp",
+    "Tag": [
+      "pfp",
+      "preset"
+    ],
+    "Premium": false,
+    "Download": "https://drive.google.com/file/d/1Hs63-Mq8e_pPgVnLyGkx5LNv01xqwgeZ/view?usp=drivesdk",
+    "Image preview": "https://i.postimg.cc/8zWM1wR5/IMG-20260922-145611-438.jpg"
   }
+  
 ]
