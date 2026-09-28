@@ -369,7 +369,27 @@
     "Premium": false,
     "Download": "https://drive.google.com/file/d/1mOFDPAIWc0B-4jjGl-w3-tgLLCKDcmLF/view?usp=drivesdk",
     "Image preview": "https://i.postimg.cc/d0YLHcxz/thumbnail-3-6339F40.png"
+  },
+
+
+  {
+    "Id": "BUNDLE-001",
+    "Tittle": "Aizen Sousuke Pack",
+    "Creator": "DARKOSIES",
+    "CreatorUsername": "Darkosies",
+    "Type": "Anime clips bundle",
+    "Tag": [
+      "bundle",
+      "aizen",
+      "manga",
+      "reverse remp",
+      "pack"
+    ],
+    "Premium": false,
+    "Download": "https://t.me/FilesSharingFreebot?start=AIZEN_SOUS",
+    "Image preview": "https://i.postimg.cc/XJW6Xhcn/063e9c58efe668b5e85f8ad9882d7daa.jpg"
   }
+  
   
   
 ]
